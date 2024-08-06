@@ -1,0 +1,18 @@
+{
+  "node": {
+    "4834826dcf3868dab00a7fa978085e4ee1e3fde2": {
+      "workers": {
+        "app/[locale]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkouroshmohajeri%2FDesktop%2FMyDoctor%2Fclient%2FgetCookies.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!",
+        "app/[locale]/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkouroshmohajeri%2FDesktop%2FMyDoctor%2Fclient%2FgetCookies.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!",
+        "app/[locale]/dashboard/clients/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkouroshmohajeri%2FDesktop%2FMyDoctor%2Fclient%2FgetCookies.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[locale]/page": "action-browser",
+        "app/[locale]/login/page": "action-browser",
+        "app/[locale]/dashboard/clients/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "0Tz2n7BcDax81L0+ZFGlFR/ObXsfPtHddmKSkMWiJkc="
+}
